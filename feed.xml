@@ -4,10 +4,17 @@
     <title>Micro-SaaS Bootstrappers Hub</title>
     <link>https://microsaas-bootstrappers-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 12 Sep 2026 06:03:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 08:32:05 GMT</lastBuildDate>
     <atom:link href="https://microsaas-bootstrappers-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <item>
+        <item>
+      <title>📅 Today's Fresh Pick: r/digitalmarketing Practitioners (Reddit)</title>
+      <link>https://www.reddit.com/r/digitalmarketing/</link>
+      <guid isPermaLink="false">https://microsaas-bootstrappers-hub.netlify.app/#microsaas-bootstrappers-hub-reddit-20260913-1-2026-09-13</guid>
+      <pubDate>Sun, 13 Sep 2026 08:32:05 GMT</pubDate>
+      <description>Newly verified community added to Micro-SaaS Bootstrappers Hub: Tactical discussions covering search marketing, social media algorithms, paid acquisition channels, marketing automation, and conversion funnels.</description>
+    </item>
+<item>
       <title>Micro-SaaS Bootstrappers Hub Initial Release</title>
       <link>https://microsaas-bootstrappers-hub.netlify.app/</link>
       <pubDate>Sat, 12 Sep 2026 06:03:55 GMT</pubDate>
